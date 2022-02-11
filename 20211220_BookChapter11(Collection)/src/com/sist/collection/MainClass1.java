@@ -83,6 +83,7 @@ public class MainClass1 {
 		list.add("수박"); //3
 		list.add("귤");  //4
 		
+		
 		//3.확인
 		for (int i = 0; i < list.size(); i++) {
 			String f = (String)list.get(i);
